@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
 <vertical display_name="edx4edx_Course_vertical">
   <html url_name="edx4edx_Course_html"/>
+  <edx_sga url_name="sga_problem" published_by="370" published_date="2014-05-27 15:16:52"/>
 </vertical>

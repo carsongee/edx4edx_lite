@@ -21,5 +21,6 @@
     "chapter/Assessment_Problems_chapter": {
         "showanswer": "attempted",
         "rerandomize": "never"
-    }
+    },
+	"advanced_modules": [ "edx_sga" ]
 }

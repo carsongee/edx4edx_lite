@@ -1,6 +1,6 @@
-<?xml version="1.0"?>
-<chapter display_name="Assessment Problems">
+<chapter display_name="Assessment Problems" rerandomize="never" showanswer="attempted">
   <sequential url_name="Sample_Problems_sequential"/>
+  <sequential url_name="b67a3c71a81b488f94ff5eba6884f0ca"/>
   <sequential url_name="Advanced_Problems_Custom_Response_and_Randomization_sequential"/>
   <sequential url_name="Advanced_Problems_Hints_sequential"/>
   <sequential url_name="Advanced_Problems_Scripts_and_Javascript_sequential"/>

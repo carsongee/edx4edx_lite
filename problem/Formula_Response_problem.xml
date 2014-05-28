@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="never" title="Formula Response" display_name="Formula Response">
+<problem title="Formula Response" display_name="Formula Response" rerandomize="never" showanswer="attempted" type="lecture">
   <text>
     <h2>Example: Formula Response Problem</h2>
     <p>

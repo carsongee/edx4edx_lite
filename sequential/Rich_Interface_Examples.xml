@@ -1,5 +1,3 @@
-<?xml version="1.0"?>
-<sequential format="" Due="Dec 12-25" display_name="Rich Interface Examples">
+<sequential display_name="Rich Interface Examples" Due="Dec 12-25">
   <problem url_name="example_loupe_and_lightbox"/>
-  <!-- <problem url_name="explore_a_protein"/> -->
 </sequential>

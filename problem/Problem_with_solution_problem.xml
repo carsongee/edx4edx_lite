@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="never" title="Problem with solution" display_name="Problem with solution">
+<problem title="Problem with solution" display_name="Problem with solution" rerandomize="never" showanswer="attempted" type="lecture">
   <text>
     <h2>Example: Problem with Solution</h2>
     <p>

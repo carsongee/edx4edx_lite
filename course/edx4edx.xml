@@ -1,5 +1,6 @@
-<course graceperiod="1 day 5 hours 59 minutes 59 seconds" org="MITx" course="edx4edx" ispublic="True" start="2012-08-01T12:00" xqa_key="IFRR2YchUinFX69Htmexq92xZ2pMO5Xz" semester="edx4edx">
+<course advanced_modules="[&quot;edx_sga&quot;]" display_name="edX Author Course" giturl="http://github.com/mitocw/edx4edx_lite" graceperiod="1 days 21599 seconds" ispublic="true" rerandomize="never" show_calculator="false" showanswer="attempted" start="2013-02-19T14:15:00Z" xqa_key="IFRR2YchUinFX69Htmexq92xZ2pMO5Xz" semester="edx4edx">
   <chapter url_name="Introduction_chapter"/>
   <chapter url_name="Assessment_Problems_chapter"/>
   <chapter url_name="Author_tools_chapter"/>
+  <wiki slug="edx4edx"/>
 </course>

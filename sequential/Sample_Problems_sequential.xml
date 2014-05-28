@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<sequential format="" Due="Dec 12-25" display_name="Sample Problems">
+<sequential display_name="Sample Problems" format="SGA" graded="true" start="2013-02-19T14:15:00Z" Due="Dec 12-25">
+  <vertical url_name="26c32ba24e6c47f1b8ce836aa502534a"/>
   <problem url_name="Option_Response_problem"/>
   <problem url_name="Multiple_Choice_problem"/>
   <problem url_name="String_Response_problem"/>
@@ -10,6 +10,4 @@
   <problem url_name="Custom_Response_problem"/>
   <problem url_name="Problem_with_solution_problem"/>
   <problem url_name="Schematic_Response_problem"/>
-  <!-- <problem url_name="example_drag_and_drop_tabular"/> 
-  <problem url_name="example_drag_and_drop_pedigree"/>-->
 </sequential>

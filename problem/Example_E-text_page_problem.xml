@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem points="10" type="lecture" showanswer="attempted" rerandomize="never" source_file="src/latex2edx/example-html-text.tex" display_name="Example E-text page">
+<problem source_file="src/latex2edx/example-html-text.tex" display_name="Example E-text page" rerandomize="never" showanswer="attempted" points="10" type="lecture">
   <text>
     <p>
       <h1>Collisions</h1>

@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<sequential format="" display_name="Sample problems generated from LaTeX">
+<sequential display_name="Sample problems generated from LaTeX">
   <problem url_name="Symbolic_response_problem_in_LaTeX_problem"/>
   <problem url_name="Custom_response_problem_in_LaTeX_problem"/>
   <problem url_name="Option_response_problem_in_LaTeX_problem"/>

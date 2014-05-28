@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="never" title="Problem with ShowHide hint in LaTeX" display_name="Problem with ShowHide hint in LaTeX">
+<problem title="Problem with ShowHide hint in LaTeX" display_name="Problem with ShowHide hint in LaTeX" rerandomize="never" showanswer="attempted" type="lecture">
   <p>
     <script type="text/javascript">
 function toggleDisplay( id, hidetext, showtext )

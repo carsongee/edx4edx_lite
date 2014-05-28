@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="true" title="Adaptive hints example: Formula Response" display_name="Adaptive hints example: Formula Response">
+<problem title="Adaptive hints example: Formula Response" display_name="Adaptive hints example: Formula Response" rerandomize="true" showanswer="attempted" type="lecture">
   <script type="text/python">
 from loncapa import *
 x1 = lc_random(2,4,1)

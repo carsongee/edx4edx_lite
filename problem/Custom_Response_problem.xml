@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="never" title="Custom Response" display_name="Custom Response">
+<problem title="Custom Response" display_name="Custom Response" rerandomize="never" showanswer="attempted" type="lecture">
   <text>
     <h2>Example: Custom Response Problem</h2>
     <p>

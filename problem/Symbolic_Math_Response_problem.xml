@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="never" title="Symbolic Math Response" display_name="Symbolic Math Response">
+<problem title="Symbolic Math Response" display_name="Symbolic Math Response" rerandomize="never" showanswer="attempted" type="lecture">
   <text>
     <h2>Example: Symbolic Math Response Problem</h2>
     <p>

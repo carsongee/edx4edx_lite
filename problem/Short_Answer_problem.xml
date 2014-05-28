@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="never" title="Short Answer" display_name="Short Answer">
+<problem title="Short Answer" display_name="Short Answer" rerandomize="never" showanswer="attempted" type="lecture">
   <text>
     <h2>Example: Short answer problem using CustomResponse</h2>
     <p>

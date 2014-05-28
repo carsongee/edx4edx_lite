@@ -1,7 +1,6 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="never" title="Schematic Response" display_name="Schematic Response"><startouttext/>
+<problem title="Schematic Response" display_name="Schematic Response" rerandomize="never" showanswer="attempted" type="lecture"><startouttext/>
 Your goal for this lab is to design a circuit that implements a
-<!-- \overline doesn't seem to render correctly -->
+
 3-input logic gate that implements \(Z = \lnot{(C(A+B))}\) where the
 \(\lnot\) symbol stands for logical negation. This function is
 enumerated in the following truth table:

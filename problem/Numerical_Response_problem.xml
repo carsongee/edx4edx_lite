@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="never" title="Numerical Response" display_name="Numerical Response">
+<problem title="Numerical Response" display_name="Numerical Response" rerandomize="never" showanswer="attempted" type="lecture">
   <text>
     <h2>Example: Numerical Response Problem</h2>
     <p>

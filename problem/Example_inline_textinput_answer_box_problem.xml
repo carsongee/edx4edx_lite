@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<problem points="40" type="lecture" showanswer="attempted" rerandomize="never" source_file="src/latex2edx/example-inline-abox.tex" display_name="Example inline textinput answer box">
+<problem source_file="src/latex2edx/example-inline-abox.tex" display_name="Example inline textinput answer box" rerandomize="never" showanswer="attempted" points="40" type="lecture">
   <text>
     <p>
       <h1>Inline Answer Box Test</h1>

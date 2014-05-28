@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<problem type="lecture" showanswer="attempted" rerandomize="never" title="Option Response" display_name="Option Response">
-  <meta>{"testkey":"testval2"}</meta>
+<problem title="Option Response" display_name="Option Response" rerandomize="never" showanswer="attempted" type="lecture">
   <text>
     <h2>Example: Option Response Problem</h2>
     <p>
